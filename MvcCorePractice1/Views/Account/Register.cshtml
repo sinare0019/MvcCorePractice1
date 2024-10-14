@@ -15,7 +15,7 @@
     </div>
     <div class="row">
         <label class="form-label" asp-for="Mobile"></label>
-        <input class="form-control" asp-for="Mobile" />
+        <input type="tel" class="form-control" asp-for="Mobile" />
         <span asp-validation-for="Mobile" class="text-danger"></span>
     </div>
     <div class="row">
@@ -31,8 +31,8 @@
     <input type="submit" value="ثبت نام" class="btn btn-success" />
 </form>
 
-@* @section Scripts {
+@section Scripts {
     @{
-        await Html.RenderPartialAsync("ValidationScriptsPartial"); 
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
-    } *@
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj": {}
+    "C:\\Users\\sina\\Desktop\\Projects\\mvcCore\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj": {
+    "C:\\Users\\sina\\Desktop\\Projects\\mvcCore\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
+        "projectUniqueName": "C:\\Users\\sina\\Desktop\\Projects\\mvcCore\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
         "projectName": "MvcCorePractice1",
-        "projectPath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
-        "packagesPath": "C:\\Users\\Sina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\obj\\",
+        "projectPath": "C:\\Users\\sina\\Desktop\\Projects\\mvcCore\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
+        "packagesPath": "C:\\Users\\sina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sina\\Desktop\\Projects\\mvcCore\\MvcCorePractice1\\MvcCorePractice1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -91,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
