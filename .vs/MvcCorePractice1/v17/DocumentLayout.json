@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\migrations\\appidentitydb\\20241010190816_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\migrations\\appidentitydb\\20241010190816_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\migrations\\mvccoretestcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\migrations\\mvccoretestcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\migrations\\20240906135204_startprojects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\migrations\\20240906135204_startprojects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\migrations\\20240905173502_addcompanytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\migrations\\20240905173502_addcompanytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\migrations\\20240905172836_test1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\migrations\\20240905172836_test1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\datalayer\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\datalayer\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\mvccorepractice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\mvccorepractice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\datalayer\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\datalayer\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\migrations\\appidentitydb\\20240906195703_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\migrations\\appidentitydb\\20240906195703_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\domainclasses\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\domainclasses\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\domainclasses\\workplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\domainclasses\\workplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|c:\\users\\sina\\onedrive\\desktop\\testing\\mvccoretest1\\mvccoretest1\\mvccorepractice1\\mvccorepractice1\\domainclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCD6160-37A4-462D-AF32-EEC5E3025982}|MvcCorePractice1\\MvcCorePractice1.csproj|solutionrelative:mvccorepractice1\\domainclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241010190816_test2.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\AppIdentityDb\\20241010190816_test2.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Migrations\\AppIdentityDb\\20241010190816_test2.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\AppIdentityDb\\20241010190816_test2.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Migrations\\AppIdentityDb\\20241010190816_test2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:08:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MvcCoreTestContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\MvcCoreTestContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Migrations\\MvcCoreTestContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\MvcCoreTestContextModelSnapshot.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Migrations\\MvcCoreTestContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:07:55.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240906135204_startProjects.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\20240906135204_startProjects.Designer.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Migrations\\20240906135204_startProjects.Designer.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\20240906135204_startProjects.Designer.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Migrations\\20240906135204_startProjects.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:07:41.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240905173502_addCompanyTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\20240905173502_addCompanyTable.Designer.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Migrations\\20240905173502_addCompanyTable.Designer.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\20240905173502_addCompanyTable.Designer.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Migrations\\20240905173502_addCompanyTable.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:07:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240905172836_test1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\20240905172836_test1.Designer.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Migrations\\20240905172836_test1.Designer.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\20240905172836_test1.Designer.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Migrations\\20240905172836_test1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:07:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MvcCorePractice1",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\MvcCorePractice1.csproj",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
+              "RelativeToolTip": "MvcCorePractice1\\MvcCorePractice1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T18:53:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240906195703_init.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\AppIdentityDb\\20240906195703_init.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Migrations\\AppIdentityDb\\20240906195703_init.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Migrations\\AppIdentityDb\\20240906195703_init.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Migrations\\AppIdentityDb\\20240906195703_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:57:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DataLayer\\Configuration.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\DataLayer\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DataLayer\\Configuration.cs",
+              "RelativeToolTip": "MvcCorePractice1\\DataLayer\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:38:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\appsettings.json",
+              "RelativeToolTip": "MvcCorePractice1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T19:27:00.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DataLayer\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\DataLayer\\AppIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DataLayer\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "MvcCorePractice1\\DataLayer\\AppIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:23:12.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DomainClasses\\Company.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\DomainClasses\\Company.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DomainClasses\\Company.cs",
+              "RelativeToolTip": "MvcCorePractice1\\DomainClasses\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:50:09.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkPlace.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DomainClasses\\WorkPlace.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\DomainClasses\\WorkPlace.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DomainClasses\\WorkPlace.cs",
+              "RelativeToolTip": "MvcCorePractice1\\DomainClasses\\WorkPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:50:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Program.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Program.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwBwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:50:09.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DomainClasses\\User.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\DomainClasses\\User.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\DomainClasses\\User.cs",
+              "RelativeToolTip": "MvcCorePractice1\\DomainClasses\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:50:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcCorePractice1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcCorePractice1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:50:09.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
