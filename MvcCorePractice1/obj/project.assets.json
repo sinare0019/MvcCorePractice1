@@ -4643,11 +4643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
+      "projectUniqueName": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
       "projectName": "MvcCorePractice1",
-      "projectPath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
+      "projectPath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
       "packagesPath": "C:\\Users\\Sina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\obj\\",
+      "outputPath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sina\\AppData\\Roaming\\NuGet\\NuGet.Config",

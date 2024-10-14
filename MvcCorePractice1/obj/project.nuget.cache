@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g/DeSAhMfUhBVjZ7S1wKWeS06x0J6LyO9CQwMl2ary129O/t+ztvsGslGz7EeK6VPgDjefn/4jH3S5ZqEfPpng==",
+  "dgSpecHash": "23hBGYkT3pygB3uAr/RGijMbCoV7/CkpUEmZB/QJ0Qi606es3JHOH/IRDpCazlqAT0sZyO7/GKHV882oCxdmrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\mvcCoreTest1\\mvcCoreTest1\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
+  "projectFilePath": "C:\\Users\\Sina\\OneDrive\\Desktop\\testing\\MvcCorePractice1\\MvcCorePractice1\\MvcCorePractice1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sina\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Sina\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
